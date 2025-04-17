@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854221981082",
+    "project_id": "ai-app-a238a",
+    "storage_bucket": "ai-app-a238a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854221981082:android:f6cbe80db55b7e4b466623",
+        "android_client_info": {
+          "package_name": "com.example.ai_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-q3vJAmh9SUSr-nCc3Plu19ie33W-jsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

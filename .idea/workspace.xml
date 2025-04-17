@@ -1,10 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05092431-1a2c-4952-b6b2-a9c1ad396d64" name="Changes" comment="" />
+    <list default="true" id="05092431-1a2c-4952-b6b2-a9c1ad396d64" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/android/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/GoogleService-Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/layouts/home/data/data_sources/update_data_source.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/layouts/home/data/data_sources/update_data_source_impl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/layouts/home/data/models/update_user_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/layouts/home/data/repositories/update_repo_impl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/layouts/home/domain/repositories/update_repo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/layouts/home/presentation/bloc/update_cubit.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/layouts/home/presentation/bloc/user_data_states.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/layouts/home/presentation/widgets/profile_tab_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/layouts/login/data/data_sources/login_data_source.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/layouts/login/data/data_sources/login_data_source_impl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/layouts/login/data/models/user_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/layouts/login/data/repositories/login_repo_impl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/layouts/login/domain/repositories/login_repo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/layouts/login/presentation/bloc/login_cubit.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/layouts/login/presentation/bloc/login_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/layouts/register/data/data_sources/data-source_impl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/layouts/register/data/data_sources/data_source.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/layouts/register/data/models/user_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/layouts/register/data/repositories/register_repo_impl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/layouts/register/domain/repositories/register_repo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/layouts/register/presentation/bloc/register_cubit.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/layouts/register/presentation/bloc/register_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/firebase_options.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/dartpad/web_plugin_registrant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/dartpad/web_plugin_registrant.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/NOTICES" beforeDir="false" afterPath="$PROJECT_DIR$/build/flutter_assets/NOTICES" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/core/widgets/main_text_form_field.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/core/widgets/main_text_form_field.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/layouts/home/presentation/screen/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/layouts/home/presentation/screen/home_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/layouts/home/presentation/tabs/home_tab.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/layouts/home/presentation/tabs/home_tab.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/layouts/home/presentation/tabs/profile_tab.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/layouts/home/presentation/tabs/profile_tab.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/layouts/login/presentation/screen/login_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/layouts/login/presentation/screen/login_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/layouts/register/presentation/screen/register_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/layouts/register/presentation/screen/register_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/windows/flutter/generated_plugins.cmake" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,23 +82,26 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2uUjBa5vLt1VhSL8PmoRi43MZ4j" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;flutter.settings&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "io.flutter.reload.alreadyRun": "true",
+    "settings.editor.selected.configurable": "flutter.settings",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
@@ -56,6 +117,19 @@
       <option name="presentableId" value="Default" />
       <updated>1742309929205</updated>
     </task>
+    <task id="LOCAL-00001" summary="app_init">
+      <created>1744721891376</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744721891376</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="app_init" />
+    <option name="LAST_COMMIT_MESSAGE" value="app_init" />
   </component>
 </project>

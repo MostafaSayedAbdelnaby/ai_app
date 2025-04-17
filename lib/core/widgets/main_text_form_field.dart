@@ -55,6 +55,12 @@ class _MainTextFormFieldState extends State<MainTextFormField> {
               color: AppColors.blueColor,
             )
         ),
+        errorBorder: OutlineInputBorder(
+            borderRadius: BorderRadius.circular(12),
+            borderSide: const BorderSide(
+              color: AppColors.redColor,
+            )
+        ),
         prefixIcon: Padding(
           padding: const EdgeInsets.symmetric(horizontal: 6),
           child: widget.prefixIcon,

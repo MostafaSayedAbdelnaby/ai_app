@@ -6,6 +6,8 @@ import 'package:ai_app/features/layouts/home/presentation/tabs/profile_tab.dart'
 import 'package:ai_app/features/layouts/home/presentation/widgets/home_app_bar.dart';
 import 'package:flutter/material.dart';
 
+import '../widgets/profile_tab_widget.dart';
+
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
 
@@ -68,7 +70,8 @@ class _HomeScreenState extends State<HomeScreen> {
   List<Widget> tabs = [
     HomeTab(),
     ExploreTab(),
-    ProfileTab(),
+    // ProfileTab(),
+    ProfileTabWidget()
   ];
 
   Widget _buildNavItem(String imageName, {required bool isSelected}) {
