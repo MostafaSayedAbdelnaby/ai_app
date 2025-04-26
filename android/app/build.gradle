@@ -10,10 +10,8 @@ plugins {
 
 android {
     namespace = "com.example.ai_app"
-//    compileSdk = flutter.compileSdkVersion
-//    ndkVersion = flutter.ndkVersion
-    compileSdk = 33 // or your current compile SDK version
-    ndkVersion = "27.0.12077973"
+    compileSdk = flutter.compileSdkVersion
+    ndkVersion = flutter.ndkVersion
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8

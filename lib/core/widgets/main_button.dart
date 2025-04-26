@@ -26,9 +26,9 @@ class MainButton extends StatelessWidget {
           backgroundColor: color,
           shape: RoundedRectangleBorder(
             side: color == const Color(0XFF121312)
-                ? const BorderSide(color: AppColors.yellowColor, width: 2)
+                ? const BorderSide(color: AppColors.backgroundColor, width: 2)
                 : BorderSide.none,
-            borderRadius: BorderRadius.circular(15),
+            borderRadius: BorderRadius.circular(12),
           ),
         ),
         child: child,

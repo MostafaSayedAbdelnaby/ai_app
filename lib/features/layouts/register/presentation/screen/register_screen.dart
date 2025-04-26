@@ -59,7 +59,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
             Navigator.pushNamedAndRemoveUntil(
               context,
               AppRoutes.login,
-                  (route) => false,
+              (route) => false,
             );
           } else if (state is RegisterOnErrorState) {
             showDialog(
@@ -120,12 +120,13 @@ class _RegisterScreenState extends State<RegisterScreen> {
                         hintText: 'Email',
                         validator: (value) {
                           if (value == null || value.isEmpty) {
-                            return 'please enter your email';
+                            return "Email is Required";
                           }
-                          final emailRegex = RegExp(
-                              r'^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$');
-                          if (!emailRegex.hasMatch(value)) {
-                            return 'please enter valid email';
+                          final bool emailValid = RegExp(
+                              r"^[a-zA-Z0-9._%+-]+@gmail\.com$")
+                              .hasMatch(value);
+                          if (!emailValid) {
+                            return "Email is Required with RegExp";
                           }
                           return null;
                         },
@@ -154,7 +155,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                       const SizedBox(height: 6),
                       MainTextFormField(
                         prefixIcon: const ImageIcon(
-                            AssetImage("${IconPath.icon}/phone.png"),
+                          AssetImage("${IconPath.icon}/phone.png"),
                         ),
                         hintText: 'phoneNumber',
                         suffixIcon: '',
@@ -163,7 +164,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                             return 'enter phone number';
                           }
                           final phoneRegex =
-                          RegExp(r'^(?:\+20|0)?1[0-2,5]{1}[0-9]{8}$');
+                              RegExp(r'^(?:\+20|0)?1[0-2,5]{1}[0-9]{8}$');
                           if (!phoneRegex.hasMatch(value)) {
                             return 'please enter a valid phone number';
                           }
@@ -176,15 +177,13 @@ class _RegisterScreenState extends State<RegisterScreen> {
                         onPressed: () {
                           if (formKey.currentState!.validate()) {
                             BlocProvider.of<RegisterCubit>(context)
-                                .register(
-                                UserModel(
+                                .register(UserModel(
                               name: nameController.text,
                               email: emailController.text,
                               indexOfImage: image,
                               phoneNumber: phoneController.text,
                               password: passwordController.text,
-                            )
-                            );
+                            ));
                           }
                         },
                         color: AppColors.blueColor.withOpacity(0.8),

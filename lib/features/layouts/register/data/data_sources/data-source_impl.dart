@@ -30,7 +30,7 @@ class DataSourceImpl implements DataSource {
       userModel.id = credential.user!.uid;
       // Save user data in Firestore & set data for document
       await addUser(userModel);
-      credential.user!.sendEmailVerification(); // ***
+      // credential.user!.sendEmailVerification(); // ***
     } catch (e) {
       throw Exception(e);
     }

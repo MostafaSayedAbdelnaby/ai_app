@@ -4,9 +4,11 @@ import 'package:flutter/material.dart';
 import 'core/routes/app_routes.dart';
 import 'firebase_options.dart';
 
-void main() async{
+void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform,);
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
   runApp(
     DevicePreview(
       enabled: true,
@@ -26,9 +28,6 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
         debugShowCheckedModeBanner: false,
         routes: AppRoutes.routes,
-        initialRoute: AppRoutes.login
-    );
+        initialRoute: AppRoutes.onBoarding);
   }
 }
-
-

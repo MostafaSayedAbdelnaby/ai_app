@@ -55,18 +55,18 @@ class _ProfileTabWidgetState extends State<ProfileTabWidget> {
                 ),
               ),
               MainTextFormField(
-                  prefixIcon: const ImageIcon(
-                      AssetImage("${IconPath.icon}/profile.png")),
-                  hintText: 'name',
-                  validator: (value) {
-                    if (value == null || value.isEmpty) {
-                      return "Name is Required";
-                    }
-                    return null;
-                  },
-                  controller: nameController..text
-                  // = widget.updateUserModel.name,
-                  ),
+                prefixIcon:
+                    const ImageIcon(AssetImage("${IconPath.icon}/profile.png")),
+                hintText: 'name',
+                validator: (value) {
+                  if (value == null || value.isEmpty) {
+                    return "Name is Required";
+                  }
+                  return null;
+                },
+                controller: nameController
+                  ..text = widget.updateUserModel?.name ?? "",
+              ),
               const SizedBox(height: 6),
               MainTextFormField(
                 prefixIcon:
@@ -90,28 +90,10 @@ class _ProfileTabWidgetState extends State<ProfileTabWidget> {
               const Spacer(),
               MainButton(
                 onPressed: () {
-                  BlocProvider.of<UserDataCubit>(context).deleteUser();
-                  // widget.userDataCubit?.deleteUser();
-                  Navigator.pushNamedAndRemoveUntil(
-                      context, AppRoutes.login, (route) => false);
-                },
-                color: AppColors.blueColor.withOpacity(0.8),
-                sizedBoxWidth: 20,
-                child: Text(
-                  'Delete Account',
-                  style: AppTextStyle.getMediumTextStyle(
-                    color: AppColors.textColor,
-                  ),
-                ),
-              ),
-              const SizedBox(height: 6),
-              MainButton(
-                onPressed: () {
                   UpdateUserModel updatedUser = UpdateUserModel(
                     name: nameController.text,
                     phoneNumber: phoneController.text,
-                    // send index that I'm selected it from Grid
-                    // indexOfImage: selectedAvatarIndex, // currentIndex
+                    indexOfImage: 0,
                   );
                   BlocProvider.of<UserDataCubit>(context)
                       .updateUser(updatedUser);
@@ -123,6 +105,22 @@ class _ProfileTabWidgetState extends State<ProfileTabWidget> {
                 sizedBoxWidth: 20,
                 child: Text(
                   'Update Data',
+                  style: AppTextStyle.getMediumTextStyle(
+                    color: AppColors.textColor,
+                  ),
+                ),
+              ),
+              const SizedBox(height: 6),
+              MainButton(
+                onPressed: () {
+                  BlocProvider.of<UserDataCubit>(context).deleteUser();
+                  Navigator.pushNamedAndRemoveUntil(
+                      context, AppRoutes.login, (route) => false);
+                },
+                color: AppColors.redColor,
+                sizedBoxWidth: 20,
+                child: Text(
+                  'Delete Account',
                   style: AppTextStyle.getMediumTextStyle(
                     color: AppColors.textColor,
                   ),

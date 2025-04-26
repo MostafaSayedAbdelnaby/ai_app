@@ -10,205 +10,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05092431-1a2c-4952-b6b2-a9c1ad396d64" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/.cmake/api/v1/query/client-agp/cache-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/.cmake/api/v1/query/client-agp/cmakeFiles-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/.cmake/api/v1/query/client-agp/codemodel-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/.cmake/api/v1/reply/cache-v2-6ea90075aee2e2f172d0.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/.cmake/api/v1/reply/cmakeFiles-v1-bf3649d8c982c1eb3c41.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/.cmake/api/v1/reply/codemodel-v2-7de53757485cf4c5d30e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/.cmake/api/v1/reply/index-2025-04-18T01-43-19-0909.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/CMakeFiles/rules.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/additional_project_files.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/android_gradle_build.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/android_gradle_build_mini.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/build.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/build_file_index.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/configure_fingerprint.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/metadata_generation_command.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/prefab_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/symbol_folder_index.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/.cmake/api/v1/query/client-agp/cache-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/.cmake/api/v1/query/client-agp/cmakeFiles-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/.cmake/api/v1/query/client-agp/codemodel-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/.cmake/api/v1/reply/cache-v2-512af6b1928f86e312a8.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/.cmake/api/v1/reply/cmakeFiles-v1-7f927f5ee08fb494943c.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/.cmake/api/v1/reply/codemodel-v2-7730c49a1ea90a544657.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/.cmake/api/v1/reply/index-2025-04-18T01-44-07-0336.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/CMakeFiles/3.22.1-g37088a8-dirty/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/CMakeFiles/3.22.1-g37088a8-dirty/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/CMakeFiles/3.22.1-g37088a8-dirty/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/CMakeFiles/3.22.1-g37088a8-dirty/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/CMakeFiles/3.22.1-g37088a8-dirty/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/CMakeFiles/rules.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/additional_project_files.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/android_gradle_build.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/android_gradle_build_mini.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/build.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/build_file_index.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/configure_fingerprint.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/metadata_generation_command.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/prefab_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/symbol_folder_index.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/hash_key.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/.cmake/api/v1/query/client-agp/cache-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/.cmake/api/v1/query/client-agp/cmakeFiles-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/.cmake/api/v1/query/client-agp/codemodel-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/.cmake/api/v1/reply/cache-v2-05cbca8cb83378f05682.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/.cmake/api/v1/reply/cmakeFiles-v1-644c9534f2ca7e076127.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/.cmake/api/v1/reply/codemodel-v2-d2215e965082cdc7cfca.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/.cmake/api/v1/reply/index-2025-04-18T01-44-10-0372.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/CMakeFiles/3.22.1-g37088a8-dirty/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/CMakeFiles/3.22.1-g37088a8-dirty/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/CMakeFiles/3.22.1-g37088a8-dirty/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/CMakeFiles/3.22.1-g37088a8-dirty/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/CMakeFiles/3.22.1-g37088a8-dirty/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/CMakeFiles/rules.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/additional_project_files.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/android_gradle_build.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/android_gradle_build_mini.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/build.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/build_file_index.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/configure_fingerprint.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/metadata_generation_command.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/prefab_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/symbol_folder_index.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/.cmake/api/v1/query/client-agp/cache-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/.cmake/api/v1/query/client-agp/cmakeFiles-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/.cmake/api/v1/query/client-agp/codemodel-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/.cmake/api/v1/reply/cache-v2-161156cfc4507cdd81dc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/.cmake/api/v1/reply/cmakeFiles-v1-66ec60c03a547a023041.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/.cmake/api/v1/reply/codemodel-v2-c032654ca1eb48c21fae.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/.cmake/api/v1/reply/index-2025-04-18T01-44-12-0369.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/CMakeFiles/3.22.1-g37088a8-dirty/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/CMakeFiles/3.22.1-g37088a8-dirty/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/CMakeFiles/3.22.1-g37088a8-dirty/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/CMakeFiles/3.22.1-g37088a8-dirty/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/CMakeFiles/3.22.1-g37088a8-dirty/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/CMakeFiles/rules.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/additional_project_files.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/android_gradle_build.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/android_gradle_build_mini.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/build.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/build_file_index.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/configure_fingerprint.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/metadata_generation_command.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/prefab_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/symbol_folder_index.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sound/0004218.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/layouts/home/presentation/tabs/click_on.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/784fcf12-1cca-4bcc-8b14-07e48ca128a0.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Affiliation Database" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Affiliation Database-journal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/AutofillStrikeDatabase/LOCK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/AutofillStrikeDatabase/LOG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/AutofillStrikeDatabase/LOG.old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/BrowsingTopicsSiteData" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/BrowsingTopicsSiteData-journal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/BrowsingTopicsState" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/BudgetDatabase/LOCK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/BudgetDatabase/LOG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/BudgetDatabase/LOG.old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/ClientCertificates/LOCK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/ClientCertificates/LOG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/chrome_cart_db/LOCK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/chrome_cart_db/LOG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/chrome_cart_db/LOG.old" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/onBoarding1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/onBoarding2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/onBoarding3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/onBoarding4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/onBoarding5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/onBoarding6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/onBoarding_screen.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.dart_tool/dartpad/web_plugin_registrant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/dartpad/web_plugin_registrant.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/version" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/version" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ai_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ai_app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/configure_fingerprint.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/arm64-v8a/configure_fingerprint.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/configure_fingerprint.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/armeabi-v7a/configure_fingerprint.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/configure_fingerprint.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86/configure_fingerprint.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/configure_fingerprint.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/452o451m/x86_64/configure_fingerprint.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/cache.dill.track.dill" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/d73d10e741f203ab78d739726242cd0d/gen_dart_plugin_registrant.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/build/d73d10e741f203ab78d739726242cd0d/gen_dart_plugin_registrant.stamp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/f058381d089462c866f43c50a3c2f019/_composite.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/f058381d089462c866f43c50a3c2f019/gen_dart_plugin_registrant.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/f058381d089462c866f43c50a3c2f019/gen_localizations.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/AssetManifest.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/AssetManifest.bin.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/AssetManifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/FontManifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/NOTICES" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/icons/arrow_back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/icons/email.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/icons/explore.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/icons/home.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/icons/icon%20_google.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/icons/name.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/icons/password.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/icons/person.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/icons/phone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/icons/profile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/images/children1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/images/children2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/images/children3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/images/children4.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/images/children5.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/images/children6.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/images/children7.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/images/children8.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/images/eye_off.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/images/eye_on.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/images/image_avatar_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/fonts/MaterialIcons-Regular.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/packages/iconsax/lib/assets/fonts/iconsax.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/shaders/ink_sparkle.frag" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/last_build_run.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/d73d10e741f203ab78d739726242cd0d/_composite.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/d73d10e741f203ab78d739726242cd0d/gen_dart_plugin_registrant.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/d73d10e741f203ab78d739726242cd0d/gen_localizations.stamp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.m" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/core/routes/app_routes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/core/routes/app_routes.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/core/widgets/main_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/core/widgets/main_button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/layouts/home/presentation/screen/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/layouts/home/presentation/screen/home_screen.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/features/layouts/home/presentation/tabs/home_tab.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/layouts/home/presentation/tabs/home_tab.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/features/layouts/home/presentation/widgets/home_app_bar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/layouts/home/presentation/widgets/home_app_bar.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linux/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/layouts/home/presentation/widgets/profile_tab_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/layouts/home/presentation/widgets/profile_tab_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/layouts/register/data/data_sources/data-source_impl.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/layouts/register/data/data_sources/data-source_impl.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/layouts/register/presentation/screen/register_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/layouts/register/presentation/screen/register_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
@@ -250,7 +85,7 @@
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;flutter.settings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
@@ -283,13 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1744852877946</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="receive message by web socket">
+      <created>1745018750912</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745018750912</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="app_init" />
     <MESSAGE value="open and upload video" />
-    <option name="LAST_COMMIT_MESSAGE" value="open and upload video" />
+    <MESSAGE value="receive message by web socket" />
+    <option name="LAST_COMMIT_MESSAGE" value="receive message by web socket" />
   </component>
 </project>
