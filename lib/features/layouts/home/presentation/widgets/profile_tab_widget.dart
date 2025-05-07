@@ -78,7 +78,7 @@ class _ProfileTabWidgetState extends State<ProfileTabWidget> {
                     return 'enter phone number';
                   }
                   final phoneRegex =
-                      RegExp(r'^(?:\+20|0)?1[0-2,5]{1}[0-9]{8}$');
+                      RegExp(r'^(?:\+20|0)?1[0-2,5]x{1}[0-9]{8}$');
                   if (!phoneRegex.hasMatch(value)) {
                     return 'please enter a valid phone number';
                   }

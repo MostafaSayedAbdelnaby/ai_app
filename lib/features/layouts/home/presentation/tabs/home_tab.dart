@@ -25,7 +25,7 @@ class _HomeTabState extends State<HomeTab> {
   @override
   void initState() {
     super.initState();
-    stream();
+    // stream();
   }
 
   @override
@@ -70,21 +70,34 @@ class _HomeTabState extends State<HomeTab> {
   }
 }
 
-final AudioPlayer audioPlayer = AudioPlayer();
-Future<Stream> stream() async {
-  ///  ************               عدّل هنا            ************
-  final wsUrl = Uri.parse('ws://192.168.1.127:8000/ws');
+Future<Stream<String>> stream() async {
+  final wsUrl = Uri.parse('ws://192.168.1.106:8001/ws');
   final channel = WebSocketChannel.connect(wsUrl);
   await channel.ready;
 
-  channel.stream.listen((message) async {
-    print('Message received: $message');
-    // Play the sound when message is received
-    ///  ************      عدّل هنا في المسار بتاع الصوت     ************
-    await audioPlayer.play(AssetSource('sound/0004218.mp3'));
+  // Listen and play audio, then pass the stream
+  return channel.stream.map((event) {
+    print('Message received: $event');
+    audioPlayer.play(AssetSource('sound/0004218.mp3'));
+    return event.toString();
   });
-  return channel.stream;
 }
+
+final AudioPlayer audioPlayer = AudioPlayer();
+
+// Future<Stream> stream() async {
+//   ///  ************               عدّل هنا            ************
+//   final wsUrl = Uri.parse('ws://192.168.1.106:8001/ws');
+//   final channel = WebSocketChannel.connect(wsUrl);
+//   await channel.ready;
+//   channel.stream.listen((message) async {
+//     print('Message received: $message');
+//     // Play the sound when message is received
+//     ///  ************      عدّل هنا في المسار بتاع الصوت     ************
+//     await audioPlayer.play(AssetSource('sound/0004218.mp3'));
+//   });
+//   return channel.stream;
+// }
 
 
 Future<void> pickAndUploadVideo() async {
@@ -93,11 +106,9 @@ Future<void> pickAndUploadVideo() async {
 
   if (result != null && result.files.single.path != null) {
     File videoFile = File(result.files.single.path!);
-
     // إرسال الفيديو للسيرفر
     ///  ************               عدّل هنا            ************
-    var uri = Uri.parse('http://192.168.1.127:8000/uploadvideo/');
-
+    var uri = Uri.parse('http://192.168.1.106:8001/uploadvideo/');
     var request = http.MultipartRequest('POST', uri);
     request.files.add(
       await http.MultipartFile.fromPath(
@@ -106,12 +117,10 @@ Future<void> pickAndUploadVideo() async {
         filename: basename(videoFile.path),
       ),
     );
-
     // إرسال الطلب باستخدام client.send
     var client = http.Client();
     try {
       var response = await client.send(request);
-
       // تحقق من حالة الاستجابة
       if (response.statusCode == 200) {
         print("✅ تم رفع الفيديو بنجاح!");

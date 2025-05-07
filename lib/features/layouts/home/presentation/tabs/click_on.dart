@@ -2,17 +2,29 @@ import 'package:flutter/material.dart';
 
 import 'home_tab.dart';
 
-class ClickOn extends StatelessWidget {
+class ClickOn extends StatefulWidget {
   const ClickOn({super.key});
+
+  @override
+  State<ClickOn> createState() => _ClickOnState();
+}
+
+class _ClickOnState extends State<ClickOn> {
+  late Future<Stream> futureStream;
+
+  @override
+  void initState() {
+    super.initState();
+    futureStream = stream();
+  }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       body: FutureBuilder<Stream>(
-        future: stream(),
+        future: futureStream,
         builder: (context, futureSnapshot) {
           if (futureSnapshot.connectionState == ConnectionState.waiting) {
-            print("object");
             return const Center(child: CircularProgressIndicator());
           } else if (futureSnapshot.hasError) {
             return Text('Error: ${futureSnapshot.error}');
@@ -23,14 +35,18 @@ class ClickOn extends StatelessWidget {
             stream: futureSnapshot.data!,
             builder: (context, snapshot) {
               if (snapshot.connectionState == ConnectionState.waiting) {
-                print("object object object");
                 return const Center(child: CircularProgressIndicator());
               } else if (snapshot.hasError) {
                 return Text('Error: ${snapshot.error}');
               } else if (!snapshot.hasData) {
                 return const Text("No data yet...");
               } else {
-                return Center(child: Text(snapshot.data.toString()));
+                return Center(
+                  child: Text(
+                    snapshot.data.toString(),
+                    style: const TextStyle(fontSize: 24),
+                  ),
+                );
               }
             },
           );
